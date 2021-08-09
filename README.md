@@ -10,4 +10,4 @@ Content will include:
 
 
 # Deployment
-The website is deployed through Netlify and the testing URL is [](https://gifted-feynman-b296ec.netlify.app/)  
+The website is deployed through Netlify and the testing URL is [here](https://gifted-feynman-b296ec.netlify.app/) 
