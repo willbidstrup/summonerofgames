@@ -6,8 +6,12 @@ Content will include:
 
 - Play reports  
 - Character notes  
-- Links  
+- Links to Foundry VTT games  
 
 
 # Deployment
-The website is deployed through Netlify and the testing URL is [here](https://gifted-feynman-b296ec.netlify.app/) 
+The website is deployed through Netlify and the testing URL is [here](https://gifted-feynman-b296ec.netlify.app/)
+
+
+# Credits  
+Fonts  
