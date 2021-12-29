@@ -1,7 +1,23 @@
-* {
-  font-family: Courier
+body {
+  background-color: #ebd5b3;
 }
-.top-section {
-  color: white;
-  background-color: black;
+
+h1 {
+  font-family: "Luminari";
+}
+
+a {
+  font-family: "Copperplate";
+}
+
+.doom-master {
+font-family: "Georgia";
+}
+
+.developer {
+font-family: "Courier";
+}
+
+* {
+  font-family: "Papyrus";
 }
